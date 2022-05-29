@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"github.com/aws/aws-lambda-go/events"
-	"github.com/hamologist/dice-roll/pkg/evaluator"
-	"github.com/hamologist/dice-roll/pkg/model"
+	"github.com/hamologist/dice-roll-go/pkg/evaluator"
+	"github.com/hamologist/dice-roll-go/pkg/model"
 
 	"github.com/aws/aws-lambda-go/lambda"
 )
